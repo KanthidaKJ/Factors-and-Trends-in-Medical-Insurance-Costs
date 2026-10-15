@@ -10,7 +10,7 @@
 | แหล่งที่มาเดิม | [https://www.kaggle.com/code/mariapushkareva/medical-insurance-cost-with-linear-regression/input] |
 
 
-## 2. พจนานุกรมข้อมูล (Data Dictionary) ของ `medical insurant cost_clean.csv`
+## 2. พจนานุกรมข้อมูล (Data Dictionary) ของ `medical insurant cost.csv`
 
 ข้อมูลหลังจากทำความสะอาดแล้วมีทั้งหมด 1,186 แถว ตารางต่อไปนี้แสดงชื่อคอลัมน์ ชนิดข้อมูล คำอธิบาย และจำนวนค่าว่างของแต่ละคอลัมน์
 
