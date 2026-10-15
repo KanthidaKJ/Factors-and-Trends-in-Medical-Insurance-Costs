@@ -8,16 +8,6 @@
 | --- | --- |
 | ชื่อชุดข้อมูล | Medical Insurance Cost with Linear Regression |
 | แหล่งที่มาเดิม | [https://www.kaggle.com/code/mariapushkareva/medical-insurance-cost-with-linear-regression/input] |
-| ประเภทข้อมูล | ข้อมูลแบบสำรวจที่ผู้ตอบรายงานเอง (self-reported) 1 แถวต่อผู้ตอบ 1 คน |
-
-## 2. ไฟล์ในโฟลเดอร์นี้
-
-| ตำแหน่งไฟล์ | คำอธิบาย |
-| --- | --- |
-| `data/raw/it_salary.csv` | ไฟล์ดิบตามที่ดาวน์โหลดมา **ห้ามแก้ไขด้วยมือ** มี 1,253 แถว 23 คอลัมน์ (รวมคอลัมน์ Timestamp ในไฟล์ที่ตรวจ) |
-| `data/processed/salary_clean.csv` | ข้อมูลที่ล้างแล้ว 1,186 แถว 25 คอลัมน์ **สร้างจาก** `code/01_clean_data.py`  |
-
-วิธีสร้างไฟล์ที่ประมวลผลแล้วขึ้นใหม่: วางไฟล์ดิบที่ `data/raw/it_salary.csv` แล้วรัน python `code/01_clean_data.py`
 
 
 ## 3. พจนานุกรมข้อมูล (Data Dictionary) ของ `salary_clean.csv`
